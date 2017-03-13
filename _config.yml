@@ -59,8 +59,8 @@ ba_track_id: b959664f3349ddb0e15b20bd38897dd6
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "程序猿吹起牛逼，那可是比较可怕啊。"
-sidebar-avatar: /img/avatar-me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "程序猿吹起牛逼，那可是比较可怕。"
+sidebar-avatar: /img/acatar-me.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
