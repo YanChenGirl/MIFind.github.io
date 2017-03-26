@@ -45,9 +45,9 @@ tags:
 
 ![](/img/vue-state.png)
 
-# 二.Vue和React对比
+### 二.Vue和React对比
 
-####对比一下Vue和React，还有Native，我们来谈一下我心中的移动开发的趋势。
+##### 对比一下Vue和React，还有Native，我们来谈一下我心中的移动开发的趋势。
 
 * VirtualDOM，这个概念绝对是WebApp越来越受欢迎的关键，通过JS对象模拟DOM，因为JS对象相对于原生DOM的性能要提升很多，原生DOM的解析与处理都是相当庞大的，想想我们当初写getDocumentById来获取DOM节点操作DOM，这种遍历的速度，是无法适应移动端频繁的页面刷新速度。加上DOM Diff 极大提升了DOM操作的性能。
 
@@ -55,5 +55,3 @@ tags:
         Vue入手并不需要太多的改变，学会指令和思路，还是去开发你的html，数据绑定框架解决，入手非常容易，而且后续推出的vue-router，vue-touch，以及vuex（对应Redux）都是很简单。但是但是其实ES6，函数式编程，JSX，Redux，工程化构建这些东西对于一个开发者并不是太难的东西。
 * 我觉得其实对于Vue的喜欢不再其渲染速度，而是相比于React来说Vue最让我舒服的一点是Vue不需要像React 那样去手动声明shouldComponentUpdate 来优化状态变更时的重新渲染的性能。
         可能是我React研究的也不深吧。
-
-
