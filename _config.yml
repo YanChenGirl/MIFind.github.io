@@ -15,9 +15,6 @@ RSS: false
 weibo_username:     270911334
 zhihu_username:     xuan-jia-wei-27
 github_username:    MIFind
-#twitter_username:  kennypro
-#facebook_username:  kennypro
-
 
 
 # Build settings
@@ -73,8 +70,8 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
+        title: "另一个网站",
+        href: "http://psy-jean.cn"
     },{
         title: "Luke的自留地",
         href: "http://hmqk1995.github.io"
