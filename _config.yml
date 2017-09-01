@@ -1,10 +1,10 @@
 # Site settings
-title: 迷路的二十五岁
+title: MIFind Blog
 SEOTitle: MIFind blog | 技术博客
 header-img: img/home-bg.jpg
 email: mifindxuan@gmail.com
-description: "java, Android, javascript "
-keyword: "android java javascript"
+description: "ReactNative, Vue, 前端 , Web/Wap, Android, javascript "
+keyword: "ReactNative, Vue, 前端 , Web/Wap, Android, javascript"
 url: ""              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -57,7 +57,7 @@ ba_track_id: b959664f3349ddb0e15b20bd38897dd6
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "程序猿吹起牛逼，那可是比较可怕。"
-sidebar-avatar: /img/acatar-me.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/mifind.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -70,22 +70,19 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "另一个网站",
-        href: "http://psy-jean.cn"
+        title: "迷路的二十五岁（写一些日常装逼文章）",
+        href: "http://mifind.online/yeoman-bootstrap-gulp-page/dist"
     },{
-        title: "Luke的自留地",
-        href: "http://hmqk1995.github.io"
+        title: "听说、故事",
+        href: "http://mifind.online/VUEONE/one/one/one.html#/"
     },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
+        title: "听说、音乐",
+        href: "http://mifind.online/VUEONE/one/music/music.html#/"
     },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
+        title: "隐藏剧情",
+        href: "http://mifind.online/VUEONE/one/about/about.html#/"
     },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
+        title: "简历项目",
+        href: "http://mifind.online/myResume/"
     }
 ]
