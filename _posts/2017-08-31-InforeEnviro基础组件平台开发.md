@@ -2,7 +2,7 @@
 layout:     post
 title:      "盈峰环境基础组建平台开发"
 subtitle:   "关于如何组织主项目和组件包的版本依赖"
-date:        2017-08-12 17:20:00
+date:        2017-08-31 17:20:00
 author:     "mifind"
 header-img: "img/rn_bg.jpg"
 tags:
