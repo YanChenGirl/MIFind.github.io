@@ -1120,10 +1120,3 @@ body {
 .page-fullscreen footer .copyright a:hover {
     color: #ddd;
 }
-
-.nav-a-class {
-    margin-left: 10px;
-    font-size: 22px;
-    color: #333333;
-    text-decoration: none
-}
