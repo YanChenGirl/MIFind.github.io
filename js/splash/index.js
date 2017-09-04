@@ -150,7 +150,7 @@
             createText('');
        }, 5000);
         setTimeout(function() {
-            window.location.href = "home.html"
+            window.location.href = "../../index.html"
        }, 6000);
        
 
