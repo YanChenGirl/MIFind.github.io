@@ -57,7 +57,7 @@ ba_track_id: b959664f3349ddb0e15b20bd38897dd6
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "程序猿吹起牛逼，那可是比较可怕。"
+sidebar-about-description: "程序猿，不热血，也迷茫，也帅。"
 sidebar-avatar: /img/mifind.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -71,19 +71,19 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "迷路的二十五岁（写一些日常装逼文章）",
-        href: "http://mifind.online/yeoman-bootstrap-gulp-page/dist"
-    },{
-        title: "听说、故事",
+        title: "故事会",
         href: "http://mifind.online/VUEONE/one/one/one.html#/"
     },{
-        title: "听说、音乐",
+        title: "音乐",
         href: "http://mifind.online/VUEONE/one/music/music.html#/"
-    },{
-        title: "隐藏剧情",
-        href: "http://mifind.online/VUEONE/one/about/about.html#/"
     },{
         title: "简历项目",
         href: "http://mifind.online/myResume/"
+    },{
+       title: "此刻，我要如何的喜欢生活。",
+       href: "https://mp.weixin.qq.com/s/Pw46y8guGoEdb9v8SiHA0g"
+    },{
+      title: "查看更多装逼文章请关注我微信公共号。",
+      href: "https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA5MjM1MTE4OA==&mid=2449974894&idx=1&sn=295b26a29c893c9a3730a1b73f146767&send_time="
     }
 ]
