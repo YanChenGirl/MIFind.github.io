@@ -58,7 +58,7 @@ ba_track_id: b959664f3349ddb0e15b20bd38897dd6
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "程序猿，不热血，也迷茫，也帅。"
-sidebar-avatar: /img/mifind.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/me.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
