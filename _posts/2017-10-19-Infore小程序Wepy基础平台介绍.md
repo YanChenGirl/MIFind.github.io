@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "盈峰环境基础组建平台开发（新）"
+title:      "盈峰微信前端框架"
 subtitle:   "通过template创建模板项目"
 date:        2017-10-09 17:20:00
 author:     "mifind"
@@ -82,4 +82,4 @@ wepy build --watch
 
 
 ### 已经开源，见这里见这里~
-<link>https://github.com/MIFind/infore-wepy-base</link>
+[infore-wepy-base](https://github.com/MIFind/infore-wepy-base)
