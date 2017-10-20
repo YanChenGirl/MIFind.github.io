@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "盈峰微信前端框架"
-subtitle:   "通过template创建模板项目"
+title:      "盈峰小程序Wepy框架"
+subtitle:   "基于Wepy框架，Vue语法开发，build成小程序和Web页面。"
 date:        2017-10-09 17:20:00
 author:     "mifind"
 header-img: "img/wei-xcx.jpeg"
