@@ -2,7 +2,7 @@
     "name": "MIFind-blog",
     "title": "MIFind Blog",
     "version": "1.0.0",
-    "homepage": "http://mifind.github.io",
+    "homepage": "http://mifind.github.io/splash",
     "author": "MIFind",
     "devDependencies": {
         "grunt": "~0.4.5",
