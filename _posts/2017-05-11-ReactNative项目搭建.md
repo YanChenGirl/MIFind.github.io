@@ -10,7 +10,7 @@ tags:
 ---
 
 # ReactNative项目搭建
-#####项目流程记录
+#### 项目流程记录
 > <strong>ReactNative版本</strong> ：0.44 -> 有新版就升级<br>
 > <strong> router路由搭建</strong> ：react-navigator进行管理。<br>
 > <strong> 封装网络请求</strong> ：react-native-fetch-blob，其实使用fetch更加方便，但是为了防止后期涉及到的blob，还是封装了RNFetchBlob库。<br>
