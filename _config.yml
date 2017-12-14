@@ -73,5 +73,14 @@ friends: [
     },{
       title: "查看更多装逼文章请关注我微信公共号。",
       href: "https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA5MjM1MTE4OA==&mid=2449974894&idx=1&sn=295b26a29c893c9a3730a1b73f146767&send_time="
+    },{
+      title: "CodePen",
+          href: "https://codepen.io/mifind/"
+    },{
+       title: "番茄时钟",
+       href: "http://mifind.online/PomodoroClock/"
+    },{
+       title: "TicTacToe Game",
+       href: "http://mifind.online/TicTacToeGame/"
     }
 ]
