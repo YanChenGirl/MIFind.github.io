@@ -1,12 +1,12 @@
 # Site settings
-title: MIFind Blog
-logoTitle: 迷路的二十五岁
-SEOTitle: MIFind blog | 技术博客
+title: YanChenBlog
+logoTitle: 我是喵少女
+SEOTitle: YanChenBlog | Memory博客
 header-img: img/home-bg.jpeg
-email: mifindxuan@gmail.com
-description: "ReactNative, Vue, 前端 , Web/Wap, Android, javascript "
-keyword: "ReactNative, Vue, 前端 , Web/Wap, Android, javascript"
-url: ""              # your host, for absolute URL
+email: zxc2511836601@163.com
+description: "movie cat animal sport photo album"
+keyword: "猫 狗 电影 动漫 运动 相册 生活 回忆"
+url: "https://YanChenGirl.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -43,9 +43,9 @@ ba_track_id: b959664f3349ddb0e15b20bd38897dd6
 
 
 
-# Sidebar settings
+# Sidebar settings 是否开启侧边栏
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "程序猿，不热血，也迷茫，也帅。"
+sidebar-about-description: "撸猫 罗威纳 元气 铲屎官"
 sidebar-avatar: /img/me.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
